@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http-images-hooks-usememo/static/css/main.37895540.css",
+    "main.js": "/http-images-hooks-usememo/static/js/main.227debd8.js",
+    "index.html": "/http-images-hooks-usememo/index.html",
+    "main.37895540.css.map": "/http-images-hooks-usememo/static/css/main.37895540.css.map",
+    "main.227debd8.js.map": "/http-images-hooks-usememo/static/js/main.227debd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37895540.css",
+    "static/js/main.227debd8.js"
+  ]
+}
